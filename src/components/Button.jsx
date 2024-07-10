@@ -12,7 +12,8 @@ const Div = styled.div`
     border-radius: 4rem;
     padding: 0.8rem 2rem;
     border: none;
-    color: white;
+    color: #536191;
+    opacity: 0.9;
     font-size: 1.1rem;
     cursor: pointer;
     :not(.blue) {
