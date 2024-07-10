@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 import hero from "../assets/hero.png";
 import heroText from "../assets/heroText.png";
