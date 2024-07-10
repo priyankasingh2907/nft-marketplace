@@ -73,7 +73,7 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is priyanka <div class="hi">👋</div></h1>
+        <h1>Hi there, my name is priyanka singh<div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
